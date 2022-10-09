@@ -10,3 +10,7 @@ This is a chat app similar to Whatsapp and made with Google Firebase as a back-e
 <img width="355" alt="Ekran Resmi 2022-10-09 17 04 44" src="https://user-images.githubusercontent.com/92036779/194772592-32a9cb96-aa18-4137-9e54-3e879beb93b3.png">
 <img width="353" alt="Ekran Resmi 2022-10-09 17 05 54" src="https://user-images.githubusercontent.com/92036779/194772619-b1d7659e-9c2d-412d-bcbe-4a4e1869bd28.png">
 <img width="361" alt="Ekran Resmi 2022-10-09 17 06 41" src="https://user-images.githubusercontent.com/92036779/194772611-153bc6de-75d9-4afd-a0bf-df1e76f151dc.png">
+
+
+https://user-images.githubusercontent.com/92036779/194773230-b817e255-5af4-4291-b3c1-5491311e1daf.mp4
+
